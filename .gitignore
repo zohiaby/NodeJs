@@ -1,0 +1,56 @@
+# Node.js dependencies
+node_modules/
+
+# Directory for build output
+.build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.test
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Test coverage directory
+coverage/
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# TernJS cache
+.tern-port
+
+# Optional nyc coverage
+.nyc_output
+
+# Parcel-bundler cache (http://parceljs.org/)
+.cache
+
+# SvelteKit build directory
+.svelte-kit
+
+# TypeScript cache
+*.tsbuildinfo
