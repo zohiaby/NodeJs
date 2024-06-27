@@ -1,0 +1,46 @@
+# Node.js specific
+node_modules/
+
+# EJS and Handlebars module files
+*.ejs
+*.handlebars
+
+# Test folder
+test/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor specific files
+.vscode/
+.idea/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Package lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
